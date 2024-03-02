@@ -1,0 +1,123 @@
+# Ignore Visual Studio files
+.vscode/
+.vs/
+*.suo
+*.user
+*.userprefs
+*_i.c
+*_p.c
+*.pidb
+*.mdf
+*.ldf
+*.ipch/
+[Tt]humbs.db
+*.log
+*.obj
+*.dll
+*.exe
+*.cache
+*.pdb
+*.user
+*.suo
+*.bak
+*.class
+*.psess
+*.vsp
+*.vspx
+*.vspscc
+*_RES*/*
+*.node
+*.manifest
+*.swp
+[Tt]est[Rr]esult*
+
+# Ignore packages folder
+packages/
+
+# Ignore node_modules folder
+node_modules/
+
+# Ignore build output
+bin/
+obj/
+
+# Ignore publish output
+Publish/
+
+# Ignore .NET Core and Visual Studio specific files
+*.DS_Store
+.vscode/
+.vscode/
+*.sln
+*.bak
+*.vspscc
+*.vssscc
+*.pidb
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+*.zip
+obj/
+bin/
+backup/
+*PublishProfile
+.vs/
+
+# Ignore user-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore NuGet package restore files
+packages/
+*.nupkg
+*.pfx
+*.snk
+
+# Ignore Resharper and Rider specific files
+_ReSharper*/
+.idea/
+*.sln.iml
+
+# Ignore Visual Studio Code specific files
+.vscode/
+
+# Ignore SQL Server files
+*.mdf
+*.ldf
+
+# Ignore JetBrains Rider specific files
+.idea/
+*.sln.iml
+*.ipr
+*.iws
+.idea/
+
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
